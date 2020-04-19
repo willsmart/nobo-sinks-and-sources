@@ -1,0 +1,19 @@
+{
+  "name": "nobo-sinks-and-sources",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "Will Smart",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.11.1",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "tslint": "^6.1.1"
+  }
+}

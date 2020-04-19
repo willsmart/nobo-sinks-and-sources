@@ -1,0 +1,84 @@
+{
+  "pos": 0,
+  "end": 52,
+  "flags": 0,
+  "modifierFlagsCache": 536870912,
+  "transformFlags": 536870912,
+  "parent": null,
+  "kind": 254,
+  "importClause": {
+    "pos": 6,
+    "end": 15,
+    "flags": 0,
+    "modifierFlagsCache": 0,
+    "transformFlags": 536870912,
+    "parent": null,
+    "kind": 255,
+    "isTypeOnly": false,
+    "namedBindings": {
+      "pos": 6,
+      "end": 15,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 536870912,
+      "parent": null,
+      "kind": 257,
+      "elements": [
+        {
+          "pos": 8,
+          "end": 13,
+          "flags": 0,
+          "modifierFlagsCache": 536870912,
+          "transformFlags": 536870912,
+          "parent": null,
+          "kind": 258,
+          "name": {
+            "pos": 8,
+            "end": 13,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 536870912,
+            "parent": null,
+            "kind": 75,
+            "escapedText": "Rule",
+            "flowNode": { "flags": 2 }
+          },
+          "symbol": { "flags": 2097152, "escapedName": "Rule", "declarations": ["◉"], "parent": null, "id": 521 },
+          "_children": ["◉"]
+        }
+      ],
+      "_children": [
+        { "pos": 6, "end": 8, "flags": 0, "modifierFlagsCache": 0, "transformFlags": 0, "parent": null, "kind": 18 },
+        {
+          "pos": 8,
+          "end": 13,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "parent": null,
+          "kind": 323,
+          "_children": ["◉"]
+        },
+        { "pos": 13, "end": 15, "flags": 0, "modifierFlagsCache": 0, "transformFlags": 0, "parent": null, "kind": 19 }
+      ]
+    },
+    "_children": ["◉"]
+  },
+  "moduleSpecifier": {
+    "pos": 20,
+    "end": 51,
+    "flags": 0,
+    "modifierFlagsCache": 0,
+    "transformFlags": 536870912,
+    "parent": null,
+    "kind": 10,
+    "text": "./tslint-rules/noImportsRule"
+  },
+  "_children": [
+    { "pos": 0, "end": 6, "flags": 0, "modifierFlagsCache": 0, "transformFlags": 0, "parent": null, "kind": 96 },
+    "◉",
+    { "pos": 15, "end": 20, "flags": 0, "modifierFlagsCache": 0, "transformFlags": 0, "parent": null, "kind": 149 },
+    "◉",
+    { "pos": 51, "end": 52, "flags": 0, "modifierFlagsCache": 0, "transformFlags": 0, "parent": null, "kind": 26 }
+  ]
+}(no - imports)
